@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-iu7oq6.ai-photo-stock.com/sitemap.xml
